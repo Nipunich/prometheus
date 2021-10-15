@@ -1,5 +1,5 @@
 ---
-title: Feature Flags
+title: Feature Flags Promethus
 sort_rank: 11
 ---
 
